@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Joachim</h1>
 <h3 align="center">An embedded developer from Stuttgart, Germany and huge Red Hot Chili Peppers fan</h3>
 
-- 🔭 I’m currently working for [Eltako GmbH](https://www.eltako.de/)
+- 🔭 I’m currently working for [d&b audiotechnik](https://www.dbaudio.com/global/de/)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker and CMAKE**
 
 - 📫 How to reach me **joachimkull.business@gmail.com**
 
